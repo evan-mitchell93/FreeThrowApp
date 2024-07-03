@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FreeThrowTracking.MainPage">
+
+    <VerticalStackLayout>
+        <Label
+            x:Name="titleLabel"
+            Text="Seven Oaks Varsity Girl's Stats"
+            TextColor="Maroon"
+            HorizontalOptions="Center">
+        </Label>
+        <Button
+            Text="START"
+            Margin="10"
+            BackgroundColor="Maroon"
+            HeightRequest="100"
+            WidthRequest="350"
+            Clicked="GoToToday">
+        </Button>
+        <Button
+            x:Name="Manage_Roster"
+            Text="Roster Management"
+            BackgroundColor="Maroon"
+            HeightRequest="100"
+            WidthRequest="350"
+            Clicked="GoToRoster"
+            >
+            
+        </Button>
+    </VerticalStackLayout>
+  
+
+</ContentPage>

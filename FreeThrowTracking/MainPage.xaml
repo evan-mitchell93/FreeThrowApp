@@ -3,13 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FreeThrowTracking.MainPage">
 
-    <VerticalStackLayout>
-        <Label
-            x:Name="titleLabel"
-            Text="Seven Oaks Varsity Girl's Stats"
-            TextColor="Maroon"
-            HorizontalOptions="Center">
-        </Label>
+    <VerticalStackLayout
+        BackgroundColor="DimGray"
+        WidthRequest="400">
         <Button
             Text="START"
             Margin="10"

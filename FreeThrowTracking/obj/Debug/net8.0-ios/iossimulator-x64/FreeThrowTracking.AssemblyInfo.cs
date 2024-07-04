@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreeThrowTracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6bcea7a33917102c8fbbb6d561afd932ee568e42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5c56a2cbee0b8b639ffca3b6574c3693a2f84942")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreeThrowTracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreeThrowTracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
